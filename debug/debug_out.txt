@@ -1,0 +1,8 @@
+Continuing.
+
+Breakpoint 2, nmb_end () at ./src/guessing_game.asm:126
+126	  call _print_str
+rax            0xb                 11
+Quit
+
+quit

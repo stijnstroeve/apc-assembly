@@ -1,0 +1,8 @@
+break _start
+run
+
+set language asm
+set pagination off
+set logging file debug/debug_out.txt
+set logging overwrite
+set logging enabled on
